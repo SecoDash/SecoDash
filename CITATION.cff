@@ -34,7 +34,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-6139-921X"
     affiliation: "Wageningen University & Research"
 
-version: "1.0.0"
+version: "1.1.0"
 date-released: 2026-08-24
 
 repository-code: "https://github.com/SecoDash/SecoDash"

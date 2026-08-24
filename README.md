@@ -1,6 +1,6 @@
 # SecoDash 
 
-[![DOI](https://zenodo.org/badge/1343847882.svg)](https://doi.org/10.5281/zenodo.22086116)
+[![DOI](https://zenodo.org/badge/1343847882.svg)](https://doi.org/10.5281/zenodo.22086712)
 
 This tool was developed as part of the paper *"From Repository Data to Ecosystem Intelligence: A Provenance-Aware Framework for Software Ecosystem Analytics"*.
 
