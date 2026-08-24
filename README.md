@@ -21,9 +21,25 @@ it will:
 6. Optionally build a **knowledge graph**, an **LLM context payload**, and
    **temporal snapshots** of every repository record.
 
+## Repository layout
+
+```
+SecoDash/
+  source_code/       All pipeline code (see module overview below), plus
+                     requirements.txt and the taxonomy.json consumed by
+                     taxonomy.py. Run main.py from inside this folder.
+  extra_materials/   Supplementary artifacts shipped with the paper.
+                     ai_audit_rust_popularity.xlsx is an example of the
+                     --generate-audit human-review export (a 10% sample of
+                     every LLM call) produced by a run on the keyword
+                     "rust" with popularity sampling. The LLM calls in
+                     this sample were reviewed by a human auditor.
+```
+
 ## Setup
 
 ```bash
+cd source_code
 pip install -r requirements.txt
 
 export GITHUB_TOKEN="ghp_..."      # optional, but strongly recommended (60 req/hr without it)
