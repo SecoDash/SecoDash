@@ -1,5 +1,7 @@
 # SecoDash 2
 
+[![DOI](https://zenodo.org/badge/1343847882.svg)](https://doi.org/10.5281/zenodo.22086116)
+
 This tool was developed as part of the paper *"From Repository Data to Ecosystem Intelligence: A Provenance-Aware Framework for Software Ecosystem Analytics"*.
 
 A pipeline for mining, scoring, and analyzing software ecosystems on GitHub
