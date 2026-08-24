@@ -1,0 +1,90 @@
+cff-version: 1.0.0
+message: "If you use this work, please cite it as follows."
+
+title: "From Repository Data to Ecosystem Intelligence: A Provenance-Aware Framework for Software Ecosystem Analytics"
+
+authors:
+  - family-names: Nami
+    given-names: Mohammad Ali
+    orcid: "https://orcid.org/0009-0007-4731-2748"
+    affiliation: "Shiraz University"
+
+  - family-names: Joonbakhsh
+    given-names: Alireza
+    orcid: "https://orcid.org/0000-0001-5044-5196"
+    affiliation: "Shiraz University"
+
+  - family-names: Bennin
+    given-names: Kwabena Ebo
+    orcid: "https://orcid.org/0000-0001-9140-9271"
+    affiliation: "Wageningen University & Research"
+
+  - family-names: Khunjush
+    given-names: Farshad
+    orcid: "https://orcid.org/0000-0002-3339-6051"
+    affiliation: "Shiraz University"
+
+  - family-names: Tekinerdogan
+    given-names: Bedir
+    orcid: "https://orcid.org/0000-0002-8538-7261"
+    affiliation: "Wageningen University & Research"
+
+  - family-names: Farshidi
+    given-names: Siamak
+    orcid: "https://orcid.org/0000-0001-6139-921X"
+    affiliation: "Wageningen University & Research"
+
+version: "1.0.0"
+date-released: 2026-08-24
+
+repository-code: "https://github.com/SecoDash/SecoDash"
+
+keywords:
+  - software ecosystems
+  - ecosystem analytics
+  - mining software repositories
+  - knowledge graphs
+  - reproducibility
+  - Design Science Research
+  - Technology Acceptance Model
+
+
+license: "MIT"
+
+abstract: >
+  Software ecosystems are socio-technical information environments whose
+  repository, contributor, dependency, and technology data are heterogeneous,
+  context-dependent, and continuously evolving. This paper presents the
+  Ecosystem Intelligence Transformation Framework (EITF), a design science
+  framework that transforms these digital traces into reproducible, traceable
+  ecosystem intelligence for human decision support. EITF is instantiated in
+  SecoDash, which integrates GitHub/GitLab acquisition, 61 repository-level
+  socio-technical indicators, three ecosystem-level aggregate types,
+  snapshot-based provenance, knowledge graphs, dashboards, and bounded
+  natural-language querying. The evaluation combines an ecosystem
+  demonstration, sampling and term-level robustness analyses, and a
+  15-participant user study based on the Technology Acceptance Model (TAM),
+  complemented by open-ended feedback. The results show that sampling choices
+  materially affect ecosystem profiles, while participants report generally
+  positive perceptions of usefulness and usability. The framework provides
+  reusable design knowledge for ecosystem-intelligence systems by emphasizing
+  provenance, traceability, and human judgment.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nami
+      given-names: Mohammad Ali
+    - family-names: Joonbakhsh
+      given-names: Alireza
+    - family-names: Bennin
+      given-names: Kwabena Ebo
+    - family-names: Khunjush
+      given-names: Farshad
+    - family-names: Tekinerdogan
+      given-names: Bedir
+    - family-names: Farshidi
+      given-names: Siamak
+  title: "From Repository Data to Ecosystem Intelligence: A Provenance-Aware Framework for Software Ecosystem Analytics"
+  year: 2026
+  month: 8
